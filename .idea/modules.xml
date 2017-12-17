@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GuardedSuspension/GuardedSuspension.iml" filepath="$PROJECT_DIR$/GuardedSuspension/GuardedSuspension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Immutable/Immutable.iml" filepath="$PROJECT_DIR$/Immutable/Immutable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleThreadExecution/SingleThreadExecution.iml" filepath="$PROJECT_DIR$/SingleThreadExecution/SingleThreadExecution.iml" />
+    </modules>
+  </component>
+</project>
